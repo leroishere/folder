@@ -1,3 +1,5 @@
 console.log("Starter Kit Git Loaded");
 
-console.log ("Hello World!")
+console.log ("Hello world");
+
+alert ("Hello world")
